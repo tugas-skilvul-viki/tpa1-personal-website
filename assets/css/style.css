@@ -208,4 +208,21 @@ footer {
   .active {
     display: none;
   }
+
+  .landing-page {
+    flex-direction: column-reverse;
+  }
+
+  .hero img {
+    width: 300px;
+  }
+
+  .introduction {
+    flex-direction: column;
+    width: 300px;
+  }
+
+  .tech-tools {
+    flex-direction: column;
+  }
 }
